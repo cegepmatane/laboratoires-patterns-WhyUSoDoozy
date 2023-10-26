@@ -1,21 +1,14 @@
 package vue;
 
-import java.util.List;
-
 import com.sun.media.jfxmedia.logging.Logger;
 
 import architecture.Vue;
-import controleur.ControleurNouvellesSimple;
 import controleur.ControleurPokemon;
-import javafx.scene.control.Label;
-import javafx.scene.control.TextArea;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
-import javafx.scene.layout.FlowPane;
-import modele.Nouvelle;
 
 public class VuePokemon extends Vue {
-	String MESSAGE_TOTAL_NOUVELLES = "Il y a {total} nouvelles";
+	String MESSAGE_TOTAL_NOUVELLES = "Il y a {total} pokemons";
 
 	protected ControleurPokemon controleur = null;
 	protected static VuePokemon instance = null; 

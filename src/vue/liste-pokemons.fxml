@@ -12,8 +12,8 @@
             <Font size="48.0" />
          </font>
       </Label>
-      <FlowPane id="liste-nouvelles" fx:id="listeNouvelles" layoutX="99.0" layoutY="197.0" prefHeight="431.0" prefWidth="628.0" style="-fx-background-color: lightgreen;" />
-      <Label id="total-nouvelles" fx:id="totalNouvelles" layoutX="99.0" layoutY="127.0" prefHeight="34.0" prefWidth="482.0" text="Il y a 10 nouvelles">
+      <FlowPane id="liste-pokemons" fx:id="listePokemons" layoutX="99.0" layoutY="197.0" prefHeight="431.0" prefWidth="628.0" style="-fx-background-color: lightgreen;" />
+      <Label id="total-pokemons" fx:id="totalPokemons" layoutX="99.0" layoutY="127.0" prefHeight="34.0" prefWidth="482.0" text="Il y a 10 nouvelles">
          <font>
             <Font size="18.0" />
          </font>
