@@ -1,2 +1,5 @@
-# projet-mirador-2022-nadineprofesseur
-projet-mirador-2022-nadineprofesseur created by GitHub Classroom
+laboratoires-patterns-WhyUSoDoozy (Alexis Lavoie)
+Design Pattern Template (Mirador) : (Place git tree link here)
+Design Pattern Commande (Éditeur) : (Place git tree link here)
+Design Pattern Monteur (Au choix) : (Place git tree link here)
+Design Pattern Décorateur (Nouveau) : (Place git tree link here)
